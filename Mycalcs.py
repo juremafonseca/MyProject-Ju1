@@ -1,4 +1,4 @@
-#Demonstraçãodo uso de operadores!
+# Demonstraçãodo uso de operadores!
 X = int(input("digitr um número: "))
 Y = int(input("digite quatro números: "))
 
