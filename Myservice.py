@@ -1,6 +1,6 @@
 # execução de serviço...
 EXECUCAO = input("O serviço foi feito (sim/não)? ")
-AVALIACAO = int(input("Qual a vota de avaliação (1/5)?"))
+AVALIACAO = int(input("Qual a nota de avaliação (1/5)?"))
 
 if EXECUCAO == "sim" and AVALIACAO == 1:
     print("O serviço foi péssimo!")
